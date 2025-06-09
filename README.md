@@ -19,3 +19,4 @@ Code was also used from victory-native-xl repo  for this demo.
 
 3. Scan the QR Code
 
+4. Observe the terminal.
