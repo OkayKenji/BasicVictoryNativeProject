@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Demo of Bug
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 Code was also used from victory-native-xl repo  for this demo.
